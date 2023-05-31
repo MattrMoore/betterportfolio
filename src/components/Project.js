@@ -1,9 +1,9 @@
 import React from "react";
-import construction from "";
-import food from "";
-import book from "";
-import text from "";
-import gen from "";
+import construction from "./images/construction.jpg";
+import food from "./images/food.webp";
+import book from "./images/book.webp";
+import text from "./images/text.webp";
+import gen from "./images/generator.jpg";
 import "./Project.css";
 
 export default function Project() {
