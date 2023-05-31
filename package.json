@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/MattrMoore/betterportfolio/issues"
   },
-  "homepage": "https://MattrMoore.github.io/betterportfolio",
+  "homepage": "https://MattrMoore.github.io/betterpoartfolio",
   "dependencies": {
     "bootstrap": "^5.3.0",
     "gh-pages": "^5.0.0",
