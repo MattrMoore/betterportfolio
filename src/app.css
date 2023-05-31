@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: black;
+    text-shadow: 0 0 2px hotpink;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.page {
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    height: 50vh;
+    padding-left: 2%;
+    padding-right: 2%;
+}
