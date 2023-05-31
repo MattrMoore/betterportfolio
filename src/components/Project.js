@@ -17,14 +17,14 @@ export default function Project() {
         }, 
         {
             name: "Recipe Finder",
-            gh: "",
+            gh: "https://github.com/agnellod/nutrition-recipies-",
             desc: "A recipe finder app",
             bg: food,
-            link: ""
+            link: "https://agnellod.github.io/nutrition-recipies-/"
         },
         {
             name: "Book Search Database",
-            gh: "",
+            gh: "https://github.com/MattrMoore/Booksearch",
             desc: "A book Search database that allows you to save books",
             bg: book,
             link: ""
@@ -38,7 +38,7 @@ export default function Project() {
         },
         {
             name: "README Generator",
-            gh: "",
+            gh: "https://github.com/MattrMoore/readmegen",
             desc: "An app that generates a README file through the command line",
             bg: gen,
             link: ""
