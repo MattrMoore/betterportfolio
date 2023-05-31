@@ -1,15 +1,15 @@
 a {
-    color: #3cc0f9;
+    color: #3cd6f9;
     text-decoration: none;
     font-size: 1.2rem;
     font-weight: 600;
     padding: 1rem;
     margin: 0 0.5rem;
     transition: all 0.2s ease-in;
-    background-color: #fff;
-    border-radius: 20px;
+    background-color: #e4aaf4;
+    border-radius: 40px;
 }
 
 a:hover {
-    color: #ff12eb;
+    color: #e10acf;
 }

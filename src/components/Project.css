@@ -13,9 +13,8 @@
 .project {
     height: 300px;
     width: 500px;
-    border: 5px solid white;
-    background-color: rgb(236, 34, 232);
-    opacity: 0.8;
+    border: 5px solid rgb(10, 1, 12);
+    opacity: 0.7;
     max-width: 300px;
     min-height: 300px;
     max-height: 400px;
@@ -35,12 +34,12 @@
 }
 
 .project:hover {
-    background-color: rgb(103, 195, 231);
-    opacity: 50%;
+    background-color: rgb(206, 224, 232);
+    opacity: 70%;
 }
 
 .project a {
-    color: #1d68d8;
+    color: #ebeef3;
     text-decoration: none;
     font-size: 1rem;
     font-weight: 600;
@@ -52,7 +51,7 @@
 }
 
 .project a:hover {
-    color: #ff12eb;
+    color: #030003;
 }
 
 .project-writing {
@@ -74,7 +73,7 @@
 
 .links{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     width: 100%;

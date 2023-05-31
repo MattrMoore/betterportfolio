@@ -58,7 +58,8 @@ export default function Project() {
                         Deployed
                     </a>
                     <a href={project.gh}>
-                            <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+                            <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" 
+     height="100" />
                     </a>
                 </div>
         </div>

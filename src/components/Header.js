@@ -10,7 +10,7 @@ const styles = {
     },
     h1: {
         fontSize: "100px",
-        color: "#FFC2F6",
+        color: "#3cd6f9",
         textAlign: "left",
         margin: "0",
         paddingLeft: "20px",

@@ -12,7 +12,7 @@ function Footer() {
                 bottom: '0',
             }}>
                 <a href="https://github.com/MattrMoore">
-                    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" />
+                    <img src="https://thumbs.gfycat.com/WeirdTimelyArcticwolf-size_restricted.gif" width="40"  height="40" alt="GitHub" />
                 </a>
             </div>
         </footer>
