@@ -1,5 +1,5 @@
 import React from 'react';
-import Project from '../Project';
+import Project from '../Project.js';
 
 export default function Resume() {
   return (
