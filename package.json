@@ -1,0 +1,22 @@
+{
+  "name": "challenge20",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattrMoore/betterportfolio.git"
+  },
+  "author": "MattrMoore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MattrMoore/betterportfolio/issues"
+  },
+  "homepage": "https://github.com/MattrMoore/betterportfolio",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
