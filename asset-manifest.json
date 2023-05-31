@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/betterportfolio/static/css/main.20bbe109.css",
+    "main.js": "/betterportfolio/static/js/main.f2bf0045.js",
+    "static/media/generator.jpg": "/betterportfolio/static/media/generator.618f180c4813e748eba0.jpg",
+    "static/media/construction.jpg": "/betterportfolio/static/media/construction.1a714c9a8155fb7f0e9f.jpg",
+    "static/media/Resume.pdf": "/betterportfolio/static/media/Resume.36e02879b9905e70b2aa.pdf",
+    "static/media/me.jpg": "/betterportfolio/static/media/me.cdd5fa179e0146165f25.jpg",
+    "static/media/text.webp": "/betterportfolio/static/media/text.e020bc87b5cd00b7ecef.webp",
+    "static/media/book.webp": "/betterportfolio/static/media/book.a6b9d7d2869042d9caac.webp",
+    "static/media/food.webp": "/betterportfolio/static/media/food.5c8ab05b11d5f267c56b.webp",
+    "index.html": "/betterportfolio/index.html",
+    "main.20bbe109.css.map": "/betterportfolio/static/css/main.20bbe109.css.map",
+    "main.f2bf0045.js.map": "/betterportfolio/static/js/main.f2bf0045.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20bbe109.css",
+    "static/js/main.f2bf0045.js"
+  ]
+}
