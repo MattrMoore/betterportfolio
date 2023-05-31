@@ -11,7 +11,7 @@ export default function Project() {
         {
             name: "Construction Company",
             gh: "https://github.com/d-lil/rob-the-builder.git",
-            desc: "An app for requesting construction projects, as well as admin access to view and update projects",
+            desc: "An app for requesting construction projects, as well as admin access to view and update projects with a Calendly API inclusion",
             bg: construction,
             link: "https://rob-the-builder.herokuapp.com/"
         }, 
