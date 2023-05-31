@@ -30,11 +30,11 @@ export default function Project() {
             link: ""
         },
         {
-            name: "",
-            gh: "",
-            desc: "",
+            name: "Note Taker",
+            gh: "https://github.com/MattrMoore/Notetaker",
+            desc: "An application that can write and save notes on the backend and then retrieve them to the front end using express.js",
             bg: text,
-            link: ""
+            link: "https://github.com/MattrMoore/Notetaker/"
         },
         {
             name: "README Generator",
