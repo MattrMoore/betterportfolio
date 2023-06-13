@@ -25,7 +25,7 @@ export default function Project() {
         {
             name: "Babes Behind Bars",
             gh: "https://github.com/d-lil/mugshawtys",
-            desc: "A dating app for prisoners",
+            desc: "A dating app for prisoners and people that want to date prisoners.",
             bg: jail,
             link: "https://mugshawtys.herokuapp.com/"
         },

@@ -8,22 +8,23 @@ export default function Navigation({ currentPage, handlePageChange}) {
                 style={{
                 display: 'flex',
                 fontFamily: 'helvetica',
-                flexDirection: 'row',
+                flexDirection: 'column',
                 alignItems: 'flex-end',
-                justifyContent: 'flex-end',
+                justifyContent: 'center',
+                gap: '50px'
                 }}
             >
                 <div className='col-1'>
-                    <a href="#about" onClick={() => handlePageChange('About')}>About Me</a>
+                    <a href="#about" onClick={() => handlePageChange('About')}>About Me 😄</a>
                 </div>
                 <div className='col-1'>
-                    <a href="#portfolio" onClick={() => handlePageChange('Portfolio')}>Portfolio</a>
+                    <a href="#portfolio" onClick={() => handlePageChange('Portfolio')}>Portfolio 📖</a>
                 </div>
                 <div className='col-1'>
-                    <a href="#contact" onClick={() => handlePageChange('Contact')}>Contact</a>
+                    <a href="#contact" onClick={() => handlePageChange('Contact')}>Contact 📫</a>
                 </div>
                 <div className='col-1'>
-                    <a href="#resume" onClick={() => handlePageChange('Resume')}>Resume</a>
+                    <a href="#resume" onClick={() => handlePageChange('Resume')}>Resume 🤓</a>
                 </div>
             </section>
         </nav>

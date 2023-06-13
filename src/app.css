@@ -2,13 +2,13 @@
     margin: 0;
     padding: 0;
     color: rgb(0, 0, 0);
-    text-shadow: 0 0 2px rgb(8, 8, 8);
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 0 0 2px rgb(241, 240, 240);
+    font-family: 'times new roman'
 }
 
 .page {
     display: flex;
-    align-items: left;
+    align-items: center;
     justify-content: center;
     height: 50vh;
     padding-left: 2%;

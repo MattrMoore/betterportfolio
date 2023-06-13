@@ -2,7 +2,15 @@ body {
     background-image: url("https://wallpapercave.com/wp/wp7775329.jpg");
     background-color: #cccccc;
 }
-
+    .center{
+        text-align: center;
+        display: block;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: 25%;
+        height: 10%;
+      }
 @media only screen and (max-width: 600px) {
     .col-1 a {
         font-size: 8px;
